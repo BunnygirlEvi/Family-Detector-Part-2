@@ -1,0 +1,9 @@
+#camera {
+  border: 20x dashed black;
+  width: 350px;
+  height: 300px;
+}
+
+body {
+  background-color: #eeeeee;
+}
